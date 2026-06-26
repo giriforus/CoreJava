@@ -2,7 +2,6 @@ package com.core.corejava;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  * P21: Find Common Elements Between Two Arrays

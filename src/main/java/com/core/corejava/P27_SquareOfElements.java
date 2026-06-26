@@ -2,7 +2,6 @@ package com.core.corejava;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  * P27: Calculate Square of Each Element
